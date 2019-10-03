@@ -1,7 +1,7 @@
 # Simple Matlab simulation to understand queue behavior And traffic congestion
 
 To visualize and test out the scenario the following matlab model was created in Simulink.
-![](model.PNG)
+![](Model.PNG)
 The model basically gives the ability to visualize the given task by controlling the following parameters.
 - Queue size
 -- Both servers having the same queue size
